@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<data>
+		<key>enterprise-app</key>
+		<value>enterprise-app</value>
+	</data>
+	<data>
+		<key>enterprise-vip-web</key>
+		<value>enterprise-vip-web</value>
+	</data>
+	<data>
+		<key>enterprise-admin-web</key>
+		<value>enterprise-admin-web</value>
+	</data>
+</root>
